@@ -1,0 +1,24 @@
+pyTelegramBotAPI       
+psutil           
+requests             
+Flask                  
+qrcode                  
+Pillow                 
+cryptography  
+protobuf
+httpx
+google
+protobuf
+pycryptodome
+PyJWT
+urllib3
+protobuf-decoder
+pytz
+aiohttp
+cfonts          
+Flask-SocketIO
+eventlet
+dotenv
+pip install 
+flask-socketio
+python-telegram-bot
